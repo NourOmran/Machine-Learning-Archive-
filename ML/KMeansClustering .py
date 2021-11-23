@@ -6,6 +6,7 @@ import pandas as pd
 def Load_Data():
     # load the data from csv file
     DataFrame = pd.read_csv('/Users/nouromran/Documents/SKlearn/Data/income.csv')
+
     #plt.scatter(DataFrame['Age'], DataFrame['Income($)'])
     #plt.show()
     return DataFrame
