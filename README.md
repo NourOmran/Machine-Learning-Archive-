@@ -3,5 +3,9 @@ implementing common Machine Learning algorithms with SKlearn
 
 # prognosis
 
-## Install requirements
+### Call Constructor with model path 
+
+```python
+myclass = prognosis("/Users/nouromran/Diabetic_Retinopathy")
+```
 
